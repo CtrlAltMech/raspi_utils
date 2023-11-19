@@ -6,5 +6,8 @@ This is just meant to be a growing repository of things I use when setting up ne
 
 - [figlet](http://www.figlet.org/) Required for big text on ssh welcome screen.
 
+
+
+
 ### SSH welcome screen (ssh_welcome.sh)
-![welcomescreen](https://github.com/CtrlAltMech/raspi_utils/assets/7492741/81f5c53d-68da-49bf-a05e-a38e464d0b7b)
+![welcomescreen](https://github.com/CtrlAltMech/raspi_utils/assets/7492741/a362d99a-67f3-4e1a-8e26-8da020ab0c47)
